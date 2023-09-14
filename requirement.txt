@@ -1,0 +1,6 @@
+pip3 install PIL
+pip3 install pytesseract
+pip3 install pdf2image
+
+download tesseract bin from 
+https://github.com/UB-Mannheim/tesseract/wiki
